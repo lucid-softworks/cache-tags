@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/cache-tags",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Tag indexing and group invalidation for any CacheStore.",
   "keywords": [
     "cache",
